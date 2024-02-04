@@ -99,7 +99,7 @@ body {
    right: 1px;
    bottom: 1px;
    z-index: -1;
-   background: linear-gradient(to right, #9A48D0, #B66DDF, #E0AAF2, #B66DDF, #9A48D0, #9A48D0);
+   background: linear-gradient(to right, #17898b, #0b999c, #17898b, rgb(45, 207, 196), rgb(72, 208, 183), #13b892);
    filter: drop-shadow(0 0 1px rgba(154, 72, 208, 0.1)) drop-shadow(0 0 10px rgba(154, 72, 208, 0.2));
    background-size: 400% 400%;
    animation: MovingGlow 6s infinite linear;

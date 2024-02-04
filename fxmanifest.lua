@@ -9,9 +9,8 @@ version '3.5'
 url 'https://github.com/UgDevOfc/UgCore/'
 ui_page 'html/index.html'
 
-client_scripts {
-    'client/main.lua'
-}
+client_script 'client/main.lua'
+server_script 'server/version.lua'
 
 files {
     'html/index.html',
